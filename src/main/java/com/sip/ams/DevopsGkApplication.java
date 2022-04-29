@@ -8,7 +8,6 @@ public class DevopsGkApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello GK");
-		System.out.println("hello lapinpain");
 		SpringApplication.run(DevopsGkApplication.class, args);
 	}
 
